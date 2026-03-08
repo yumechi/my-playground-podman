@@ -1,4 +1,4 @@
-# podman_study
+# my-playground-podman
 
 podman でいろいろ試したりするリポジトリ。
 
